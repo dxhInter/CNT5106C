@@ -1,7 +1,7 @@
-# CNT5106-Internet Chatting\
+# CNT5106-Internet Chatting
 
 Programming language: Java\
-Project time: April 2023\
+Project time: April 2023
 
 ### How to run it
 - open a terminal in src directory to run ```javac chatServer.java``` and run```java chatServer```, then input the name for client such as Alice, and input the port to start the socket server such as 8000.

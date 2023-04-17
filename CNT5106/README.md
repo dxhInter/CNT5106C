@@ -1,7 +1,7 @@
 # CNT5106-Implementation of FTP client and server
 
 Programming language: Java\
-Project time: Feb 2023\
+Project time: Feb09 2023\
 
 ### How to run it
 - open a terminal in src directory to run ```javac Ftpserver.java``` and choose a port such as 8080 to run```java Ftpserver 8080```

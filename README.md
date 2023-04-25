@@ -1,4 +1,4 @@
-#CNT5106C
+# CNT5106C chatServer with FTP server and client
 
 2023 SPRING\
 Based on Java\
